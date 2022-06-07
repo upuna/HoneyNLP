@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+chars2vec/__init__.py
+chars2vec/model.py
+chars2vec.egg-info/PKG-INFO
+chars2vec.egg-info/SOURCES.txt
+chars2vec.egg-info/dependency_links.txt
+chars2vec.egg-info/top_level.txt
